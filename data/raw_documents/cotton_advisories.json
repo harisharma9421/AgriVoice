@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "COTTON_001",
+    "crop": "cotton",
+    "topic": "yellowing_leaves_deficiency",
+    "title_hi": "कपास में पत्तियों का पीलापन और लाल होना - कारण एवं प्रबंधन",
+    "title_mr": "कापूस पिकात पाने पिवळी आणि लाल पडणे - कारणे व उपाय",
+    "source": "ICAR-केंद्रीय कापूस संशोधन संस्था (CICR), नागपूर",
+    "region": "Maharashtra, Gujarat, Madhya Pradesh",
+    "season": "Kharif",
+    "verified_status": true,
+    "last_updated": "2026-10-15",
+    "content_en": "Yellowing of leaves in cotton, especially between veins on older leaves, is primarily caused by Magnesium (Mg) deficiency or nitrogen deficiency during square and boll formation. Later, these leaves turn reddish-purple (reddening). For management, spray 1% Magnesium Sulphate (MgSO4) (10 grams per liter of water) mixed with 1% Urea (10 grams per liter). Two sprays at 15 days interval during boll development significantly reverse yellowing. Ensure good soil drainage as waterlogging exacerbates yellowing.",
+    "content_hi": "कपास की पुरानी पत्तियों की नसों के बीच पीलापन मुख्य रूप से मैग्नीशियम की कमी या गूलर बनते समय नाइट्रोजन की कमी के कारण होता है। बाद में पत्तियां लाल-बैंगनी हो जाती हैं। इसके समाधान हेतु 1% मैग्नीशियम सल्फेट (10 ग्राम प्रति लीटर पानी) और 1% यूरिया (10 ग्राम प्रति लीटर) का घोल बनाकर छिड़काव करें। गूलर बनने की अवस्था में 15 दिनों के अंतराल पर दो छिड़काव करें। खेत में जलभराव न होने दें।",
+    "content_mr": "कापसाच्या जुन्या पानांच्या शिरांमध्ये पिवळेपणा येणे हे प्रामुख्याने मॅग्नेशियमच्या कमतरतेमुळे किंवा बोंड भरण्याच्या काळात नत्राच्या कमतरतेमुळे होते. नंतर पाने लाल पडतात (लाल्या रोग सदृश). याच्या नियंत्रणासाठी 1% मॅग्नेशियम सल्फेट (10 ग्रॅम प्रति लिटर पाणी) अधिक 1% युरिया (10 ग्रॅम प्रति लिटर पाणी) यांची फवारणी करावी. बोंडे भरण्याच्या अवस्थेत 15 दिवसांच्या अंतराने दोन फवारण्या कराव्यात. शेतात पाणी साचू देऊ नका."
+  },
+  {
+    "doc_id": "COTTON_002",
+    "crop": "cotton",
+    "topic": "pink_bollworm_management",
+    "title_hi": "कपास में गुलाबी सुंडी (पिंक बॉलवर्म) का एकीकृत प्रबंधन",
+    "title_mr": "कापसावरील गुलाबी बोंडअळीचे एकात्मिक व्यवस्थापन",
+    "source": "ICAR-केंद्रीय कापूस संशोधन संस्था (CICR), नागपूर",
+    "region": "All Cotton Growing Zones",
+    "season": "Kharif",
+    "verified_status": true,
+    "last_updated": "2026-10-20",
+    "content_en": "Pink Bollworm (Pectinophora gossypiella) attacks flower buds and bolls causing rosette flowers and premature boll drop. Management: Install pheromone traps @ 5 per acre for monitoring and 8-10 for mass trapping. ETL is 8 moths/trap/night for 3 consecutive days or 10% rosette flowers. At ETL, spray Neem seed kernel extract (NSKE 5%) or Azadirachtin 1500 ppm @ 5 ml/liter. If chemical intervention is necessary, spray Profenofos 50 EC @ 2 ml/liter or Chlorantraniliprole 18.5 SC @ 0.3 ml/liter. Always wear protective gloves and mask when spraying.",
+    "content_hi": "गुलाबी सुंडी (पिंक बॉलवर्म) फूलों और कलियों को नुकसान पहुंचाती है, जिससे फूल बंद 'रोसेट' जैसे हो जाते हैं। प्रबंधन: खेत में निगरानी हेतु 5 फेरोमोन ट्रैप प्रति एकड़ लगाएं। यदि प्रति ट्रैप 8 पतंगे लगातार 3 दिन दिखें या 10% रोसेट फूल हों, तो 5% निंबोली अर्क (NSKE) या एजाडिरैक्टिन 1500 ppm (5 मिली/लीटर) का छिड़काव करें। रासायनिक उपाय के लिए प्रोफेनोफॉस 50 EC (2 मिली/लीटर पानी) का छिड़काव करें। छिड़काव के समय दस्ताने और मास्क अवश्य पहनें।",
+    "content_mr": "गुलाबी बोंडअळीच्या प्रादुर्भावामुळे फुले अर्धवट उमलून 'डोमकळी' तयार होते आणि बोंडांचे नुकसान होते. उपाययोजना: एकरी 5 कामगंध सापळे (फेरोमोन ट्रॅप) लावावेत. जर सलग 3 दिवस प्रति ट्रॅप 8 पतंग आढळल्यास किंवा 10% डोमकळ्या दिसल्यास निंबोळी अर्क 5% किंवा अझाडिरॅक्टिन 1500 ppm 5 मिली प्रति लिटर फवारावे. प्रादुर्भाव वाढल्यास प्रोफेनोफॉस 50 EC (2 मिली प्रति लिटर) किंवा क्लोरँट्रानिलिप्रोल 18.5 SC (0.3 मिली प्रति लिटर) फवारावे. फवारणी करताना संरक्षक मास्क व हातमोजे वापरावेत."
+  },
+  {
+    "doc_id": "COTTON_003",
+    "crop": "cotton",
+    "topic": "sucking_pests_aphids_jassids",
+    "title_hi": "कपास में रस चूसक कीट (माहू, हरा मच्छर, थ्रिप्स)",
+    "title_mr": "कापसावरील रसशोषक किडी (मावा, तुडतुडे, फुलकिडे) नियंत्रण",
+    "source": "ICAR-CICR व वसंतराव नाईक मराठवाडा कृषी विद्यापीठ",
+    "region": "Central & South Zone",
+    "season": "Kharif",
+    "verified_status": true,
+    "last_updated": "2026-09-12",
+    "content_en": "Sucking pests suck cell sap, causing cupping and curl of cotton leaves. Initial control: Yellow sticky traps (10 per acre) and 5% neem oil spray. For heavy infestation exceeding ETL, spray Flonicamid 50 WG @ 0.3 g/liter or Imidacloprid 17.8 SL @ 0.3 ml/liter. Do not repeat the same chemical consecutively to prevent resistance. Do not apply chemicals without protective gear.",
+    "content_hi": "माहू और हरा मच्छर पत्तियों का रस चूसकर उन्हें कमजोर करते हैं। प्राथमिक नियंत्रण हेतु पीले चिपचिपे कार्ड (10 प्रति एकड़) लगाएं और नीम के तेल का छिड़काव करें। यदि प्रकोप अधिक हो, तो फ्लोनिकामिड 50 WG (0.3 ग्राम प्रति लीटर) या इमिडाक्लोप्रिड 17.8 SL (0.3 मिली प्रति लीटर) का छिड़काव करें। कीटनाशक बदलते रहें ताकि कीटों में प्रतिरोधक क्षमता न बने।",
+    "content_mr": "मावा आणि तुडतुडे पानांतील रस शोषून घेतात ज्यामुळे पाने वाकडी होतात. नियंत्रणासाठी पिवळे चिकट सापळे एकरी 10 लावावेत व निंबोळी तेल फवारावे. प्रादुर्भाव जास्त असल्यास फ्लोनिकॅमिड 50 WG (0.3 ग्रॅम प्रति लिटर) किंवा इमिडाक्लोप्रिड 17.8 SL (0.3 मिली प्रति लिटर) फवारावे. एकाच औषधाची वारंवार फवारणी करू नका. संरक्षक कपडे व मास्क वापरा."
+  }
+]

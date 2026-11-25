@@ -1,0 +1,56 @@
+{
+  "crops": [
+    {"en": "cotton", "hi": ["कपास", "कपासी"], "mr": ["कापूस", "कपाशी"], "canonical": "cotton"},
+    {"en": "soybean", "hi": ["सोयाबीन"], "mr": ["सोयाबीन"], "canonical": "soybean"},
+    {"en": "wheat", "hi": ["गेहूं", "गेहु"], "mr": ["गहू", "गव्हाचे"], "canonical": "wheat"},
+    {"en": "tomato", "hi": ["टमाटर"], "mr": ["टोमॅटो", "टोमॅटोचे"], "canonical": "tomato"},
+    {"en": "sugarcane", "hi": ["गन्ना"], "mr": ["ऊस", "उसाचे"], "canonical": "sugarcane"},
+    {"en": "gram", "hi": ["चना", "चने"], "mr": ["हरभरा", "हरभऱ्याचे"], "canonical": "gram"},
+    {"en": "onion", "hi": ["प्याज", "कांदा"], "mr": ["कांदा", "कांद्याचे"], "canonical": "onion"},
+    {"en": "rice", "hi": ["धान", "चावल"], "mr": ["भात", "तांदूळ"], "canonical": "rice"},
+    {"en": "mustard", "hi": ["सरसों", "राई"], "mr": ["मोहरी"], "canonical": "mustard"},
+    {"en": "maize", "hi": ["मक्का"], "mr": ["मका"], "canonical": "maize"}
+  ],
+  "pests_and_diseases": [
+    {"en": "pink bollworm", "hi": ["गुलाबी सुंडी", "गुलाबी इल्ली"], "mr": ["गुलाबी बोंडअळी", "बोंडअळी"], "canonical": "pink bollworm"},
+    {"en": "aphids", "hi": ["माहू", "चेपा"], "mr": ["मावा"], "canonical": "aphids"},
+    {"en": "jassids", "hi": ["तेजस्वी", "हरा मच्छर", "जैसिड"], "mr": ["तुडतुडे"], "canonical": "jassids"},
+    {"en": "yellow mosaic virus", "hi": ["पीला मोज़ेक", "पीला पत्ता रोग"], "mr": ["पिवळा मोझॅक", "पिवळा पानांचा रोग"], "canonical": "yellow mosaic virus"},
+    {"en": "rust", "hi": ["गेरुआ", "रतुआ"], "mr": ["तांबेरा"], "canonical": "rust"},
+    {"en": "late blight", "hi": ["पछेती झुलसा", "झुलसा"], "mr": ["करपा", "लेट ब्लाइट"], "canonical": "late blight"},
+    {"en": "leaf curl", "hi": ["पत्ती मरोड़ रोग", "लीफ कर्ल"], "mr": ["पर्णगुच्छ", "पान चुरमुरणे", "चुरडा मुरडा"], "canonical": "leaf curl"},
+    {"en": "red rot", "hi": ["लाल सड़न"], "mr": ["तांबडी सड"], "canonical": "red rot"},
+    {"en": "wilt", "hi": ["उकठा रोग", "मर रोग"], "mr": ["मर रोग"], "canonical": "wilt"},
+    {"en": "pod borer", "hi": ["फली छेदक", "हेलिकोवर्पा"], "mr": ["घाटे अळी", "शेंग पोखरणारी अळी"], "canonical": "pod borer"},
+    {"en": "stem fly", "hi": ["तना मक्खी"], "mr": ["खोडमाशी"], "canonical": "stem fly"}
+  ],
+  "symptoms": [
+    {"en": "yellowing leaves", "hi": ["पत्ते पीले पड़ना", "पीलापन"], "mr": ["पाने पिवळी पडणे", "पिवळेपणा"], "canonical": "yellowing leaves"},
+    {"en": "wilting", "hi": ["मुरझाना", "सूखना"], "mr": ["सुकणे", "कोमेजणे"], "canonical": "wilting"},
+    {"en": "leaf spot", "hi": ["पत्तियों पर धब्बे", "धब्बा"], "mr": ["पानांवर ठिपके", "ठिपके"], "canonical": "leaf spot"},
+    {"en": "curling leaves", "hi": ["पत्तियां मुड़ना"], "mr": ["पाने आकसणे", "चुरमुरणे"], "canonical": "curling leaves"}
+  ],
+  "inputs_and_chemicals": [
+    {"en": "urea", "hi": ["यूरिया"], "mr": ["युरिया"], "canonical": "urea"},
+    {"en": "dap", "hi": ["डीएपी", "डी.ए.पी."], "mr": ["डीएपी", "डी.ए.पी."], "canonical": "dap"},
+    {"en": "potash", "hi": ["पोटाश"], "mr": ["पोटॅश"], "canonical": "potash"},
+    {"en": "magnesium sulphate", "hi": ["मैग्नीशियम सल्फेट"], "mr": ["मॅग्नेशियम सल्फेट"], "canonical": "magnesium sulphate"},
+    {"en": "imidacloprid", "hi": ["इमिडाक्लोप्रिड"], "mr": ["इमिडाक्लोप्रिड"], "canonical": "imidacloprid"},
+    {"en": "mancozeb", "hi": ["मैंकोजेब"], "mr": ["मँकोझेब"], "canonical": "mancozeb"},
+    {"en": "copper oxychloride", "hi": ["कॉपर ऑक्सीक्लोराइड"], "mr": ["कॉपर ऑक्सिक्लोराईड"], "canonical": "copper oxychloride"},
+    {"en": "neem oil", "hi": ["नीम का तेल", "नीम तेल"], "mr": ["निंबोळी अर्क", "कडुलिंबाचे तेल"], "canonical": "neem oil"}
+  ],
+  "schemes": [
+    {"en": "pm-kisan", "hi": ["पीएम किसान", "किसान सम्मान निधि"], "mr": ["पीएम किसान", "किसान सन्मान निधी"], "canonical": "pm-kisan"},
+    {"en": "pmfby", "hi": ["फसल बीमा", "पीएमएफबीवाई"], "mr": ["पीक विमा", "पंतप्रधान पीक विमा"], "canonical": "pmfby"},
+    {"en": "soil health card", "hi": ["मृदा स्वास्थ्य कार्ड", "सॉइल हेल्थ कार्ड"], "mr": ["मृदा आरोग्य पत्रिका", "माती परीक्षण कार्ड"], "canonical": "soil health card"},
+    {"en": "pm-kusum", "hi": ["कुसुम योजना", "सोलर पंप योजना"], "mr": ["कुसुम योजना", "सौर कृषी पंप"], "canonical": "pm-kusum"}
+  ],
+  "intents": [
+    {"en": "price", "hi": ["भाव", "दाम", "मंडी रेट", "बाजार भाव", "कीमत"], "mr": ["भाव", "दर", "बाजारभाव", "मार्केट भाव", "किंमत"], "canonical": "mandi_price"},
+    {"en": "weather", "hi": ["मौसम", "बारिश", "तापमान", "हवामान"], "mr": ["हवामान", "पाऊस", "तापमान", "पावसाचा अंदाज"], "canonical": "weather_advisory"},
+    {"en": "pest_disease", "hi": ["कीट", "रोग", "कीड़ा", "दवा", "स्प्रे", "उपचार"], "mr": ["किड", "रोग", "अळी", "औषध", "फवारणी", "उपाय"], "canonical": "pest_disease"},
+    {"en": "scheme", "hi": ["योजना", "सब्सिडी", "अनुदान", "किस्त", "पैसा"], "mr": ["योजना", "अनुदान", "हप्ता", "सबसिडी", "शासकीय योजना"], "canonical": "government_scheme"},
+    {"en": "crop_advice", "hi": ["खाद", "बुवाई", "सिंचाई", "पैदावार", "खेती"], "mr": ["खत", "पेरणी", "पाणी व्यवस्थापन", "उत्पादन", "लागवड"], "canonical": "crop_advice"}
+  ]
+}

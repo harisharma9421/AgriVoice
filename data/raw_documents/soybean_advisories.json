@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "SOY_001",
+    "crop": "soybean",
+    "topic": "stem_fly_girdle_beetle",
+    "title_hi": "सोयाबीन में तना मक्खी एवं चक्र भृंग (गर्डल बीटल) नियंत्रण",
+    "title_mr": "सोयाबीनवरील खोडमाशी आणि चक्रभुंगा (गर्डल बीटल) नियंत्रण",
+    "source": "ICAR-भारतीय सोयाबीन अनुसंधान संस्थान (IISR), इंदौर",
+    "region": "Madhya Pradesh, Maharashtra, Rajasthan",
+    "season": "Kharif",
+    "verified_status": true,
+    "last_updated": "2026-08-10",
+    "content_en": "Stem fly maggots bore into stems causing zigzag tunnels, drying, and plant death. Seed treatment with Thiamethoxam 30 FS @ 10 ml/kg seed protects plants for initial 25-30 days. For standing crop showing girdling or wilting, spray Chlorantraniliprole 18.5 SC @ 0.3 ml/liter or Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC @ 0.25 ml/liter.",
+    "content_hi": "सोयाबीन में तना मक्खी की इल्ली तने के अंदर सुरंग बनाती है जिससे पौधे सूखने लगते हैं। रोकथाम: बुवाई से पहले थायोमेथोक्सम 30 FS (10 मिली प्रति किग्रा बीज) से बीजोपचार करें। खड़ी फसल में प्रकोप दिखने पर क्लोरेंट्रानिलिप्रोल 18.5 SC (0.3 मिली प्रति लीटर पानी) का छिड़काव करें।",
+    "content_mr": "सोयाबीनमध्ये खोडमाशीची अळी खोडात शिरून पोखरते, ज्यामुळे झाड वाळते. उपाय: पेरणीपूर्वी थायामेथॉक्झाम 30 FS (10 मिली प्रति किलो बियाणे) या प्रमाणात बीजप्रक्रिया करावी. उभ्या पिकात प्रादुर्भाव दिसल्यास क्लोरँट्रानिलिप्रोल 18.5 SC (0.3 मिली प्रति लिटर) किंवा थायामेथोक्साम + लॅम्बडा सायहॅलोथ्रिन (0.25 मिली प्रति लिटर) फवारावे."
+  },
+  {
+    "doc_id": "SOY_002",
+    "crop": "soybean",
+    "topic": "yellow_mosaic_virus",
+    "title_hi": "सोयाबीन में पीला मोज़ेक वायरस और सफेद मक्खी नियंत्रण",
+    "title_mr": "सोयाबीनवरील पिवळा मोझॅक रोग आणि पांढरी माशी नियंत्रण",
+    "source": "ICAR-IISR इंदौर व कृषी विज्ञान केंद्र",
+    "region": "Central India",
+    "season": "Kharif",
+    "verified_status": true,
+    "last_updated": "2026-08-18",
+    "content_en": "Yellow Mosaic Virus in soybean is transmitted by whitefly (Bemisia tabaci). Infected leaves show bright yellow patches. Virus cannot be cured by fungicide; whitefly vector must be controlled immediately. Rogue out and bury infected plants. Spray Acetamiprid 20 SP @ 0.4 g/liter or Spiromesifen 22.9 SC @ 1 ml/liter.",
+    "content_hi": "सोयाबीन का पीला मोज़ेक रोग सफेद मक्खी द्वारा फैलता है। पत्तों पर चमकदार पीले चकत्ते दिखाई देते हैं। रोगग्रस्त पौधों को उखाड़कर तुरंत नष्ट करें। सफेद मक्खी के नियंत्रण के लिए एसीटामिप्रिड 20 SP (0.4 ग्राम प्रति लीटर पानी) का छिड़काव करें। कवकनाशी से यह वायरस ठीक नहीं होता।",
+    "content_mr": "सोयाबीनचा पिवळा मोझॅक विषाणू पांढऱ्या माशीमुळे पसरतो. पानांवर पिवळे ठिपके पडतात. रोगट झाडे उपटून शेताबाहेर नष्ट करावीत. पांढऱ्या माशीच्या नियंत्रणासाठी ॲसिटामिप्रिड 20 SP (0.4 ग्रॅम प्रति लिटर पाणी) फवारावे. या रोगावर बुरशीनाशकाचा उपयोग होत नाही, पांढरी माशी रोखणे हाच उपाय आहे."
+  }
+]

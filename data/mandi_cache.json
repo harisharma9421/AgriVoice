@@ -1,0 +1,74 @@
+{
+  "as_of_date": "24 Nov 2026",
+  "source": "Agmarknet / e-NAM Live Portal",
+  "commodities": {
+    "cotton": {
+      "name_en": "Cotton (Medium/Long Staple)",
+      "name_hi": "कपास",
+      "name_mr": "कापूस",
+      "unit": "Rs / Quintal",
+      "mandis": [
+        {"market": "Nagpur (Maharashtra)", "min_price": 7250, "max_price": 7850, "modal_price": 7600, "arrivals_tonnes": 420},
+        {"market": "Akola (Maharashtra)", "min_price": 7100, "max_price": 7780, "modal_price": 7520, "arrivals_tonnes": 310},
+        {"market": "Rajkot (Gujarat)", "min_price": 7300, "max_price": 7920, "modal_price": 7680, "arrivals_tonnes": 540},
+        {"market": "Khamgaon (Maharashtra)", "min_price": 7200, "max_price": 7800, "modal_price": 7550, "arrivals_tonnes": 280}
+      ]
+    },
+    "soybean": {
+      "name_en": "Soybean (Yellow)",
+      "name_hi": "सोयाबीन",
+      "name_mr": "सोयाबीन",
+      "unit": "Rs / Quintal",
+      "mandis": [
+        {"market": "Indore (Madhya Pradesh)", "min_price": 4300, "max_price": 4850, "modal_price": 4650, "arrivals_tonnes": 780},
+        {"market": "Latur (Maharashtra)", "min_price": 4350, "max_price": 4900, "modal_price": 4720, "arrivals_tonnes": 650},
+        {"market": "Nagpur (Maharashtra)", "min_price": 4250, "max_price": 4800, "modal_price": 4600, "arrivals_tonnes": 390},
+        {"market": "Ujjain (Madhya Pradesh)", "min_price": 4280, "max_price": 4820, "modal_price": 4620, "arrivals_tonnes": 410}
+      ]
+    },
+    "wheat": {
+      "name_en": "Wheat (Mill Quality / Lokwan)",
+      "name_hi": "गेहूं",
+      "name_mr": "गहू",
+      "unit": "Rs / Quintal",
+      "mandis": [
+        {"market": "Karnal (Haryana)", "min_price": 2400, "max_price": 2720, "modal_price": 2580, "arrivals_tonnes": 920},
+        {"market": "Indore (Madhya Pradesh)", "min_price": 2450, "max_price": 2850, "modal_price": 2680, "arrivals_tonnes": 510},
+        {"market": "Pune (Maharashtra)", "min_price": 2600, "max_price": 3100, "modal_price": 2850, "arrivals_tonnes": 340}
+      ]
+    },
+    "tomato": {
+      "name_en": "Tomato (Hybrid)",
+      "name_hi": "टमाटर",
+      "name_mr": "टोमॅटो",
+      "unit": "Rs / Quintal",
+      "mandis": [
+        {"market": "Nashik (Maharashtra)", "min_price": 1400, "max_price": 2200, "modal_price": 1850, "arrivals_tonnes": 850},
+        {"market": "Kolar (Karnataka)", "min_price": 1350, "max_price": 2150, "modal_price": 1780, "arrivals_tonnes": 910},
+        {"market": "Pune (Maharashtra)", "min_price": 1500, "max_price": 2300, "modal_price": 1950, "arrivals_tonnes": 420}
+      ]
+    },
+    "gram": {
+      "name_en": "Gram / Chana",
+      "name_hi": "चना",
+      "name_mr": "हरभरा",
+      "unit": "Rs / Quintal",
+      "mandis": [
+        {"market": "Akola (Maharashtra)", "min_price": 5400, "max_price": 6100, "modal_price": 5850, "arrivals_tonnes": 330},
+        {"market": "Indore (Madhya Pradesh)", "min_price": 5350, "max_price": 6050, "modal_price": 5800, "arrivals_tonnes": 480},
+        {"market": "Bikaner (Rajasthan)", "min_price": 5300, "max_price": 5950, "modal_price": 5750, "arrivals_tonnes": 290}
+      ]
+    },
+    "onion": {
+      "name_en": "Onion (Red / Nasik)",
+      "name_hi": "प्याज",
+      "name_mr": "कांदा",
+      "unit": "Rs / Quintal",
+      "mandis": [
+        {"market": "Lasalgaon (Nashik)", "min_price": 1800, "max_price": 3100, "modal_price": 2650, "arrivals_tonnes": 1400},
+        {"market": "Pune (Maharashtra)", "min_price": 1900, "max_price": 3200, "modal_price": 2750, "arrivals_tonnes": 680},
+        {"market": "Solapur (Maharashtra)", "min_price": 1700, "max_price": 2950, "modal_price": 2500, "arrivals_tonnes": 520}
+      ]
+    }
+  }
+}

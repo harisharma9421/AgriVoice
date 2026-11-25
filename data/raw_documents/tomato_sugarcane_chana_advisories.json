@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "TOM_001",
+    "crop": "tomato",
+    "topic": "late_blight_management",
+    "title_hi": "टमाटर में पछेती झुलसा (लेट ब्लाइट) का नियंत्रण",
+    "title_mr": "टोमॅटोवरील करपा (लेट ब्लाइट) रोग नियंत्रण",
+    "source": "ICAR-भारतीय बागवानी अनुसंधान संस्थान (IIHR), बेंगळुरू",
+    "region": "All Tomato Zones",
+    "season": "Kharif & Rabi",
+    "verified_status": true,
+    "last_updated": "2026-10-11",
+    "content_en": "Late blight caused by Phytophthora infestans leads to water-soaked dark brown necrotic lesions on leaves, stems, and fruits, rapidly destroying crops in cool, foggy weather. Preventive spray: Mancozeb 75 WP @ 2.5 g/liter or Copper Oxychloride 50 WP @ 3 g/liter. If disease has already started, spray systemic fungicide Cymoxanil 8% + Mancozeb 64% WP @ 2 g/liter or Metalaxyl-M 4% + Mancozeb 64% WP @ 2 g/liter. Avoid overhead irrigation.",
+    "content_hi": "टमाटर में झुलसा रोग में पत्तियों और तने पर भूरे-काले भीगे हुए धब्बे बनते हैं और फसल तेजी से सड़ने लगती है। रोकथाम के लिए मैंकोजेब 75 WP (2.5 ग्राम प्रति लीटर) या कॉपर ऑक्सीक्लोराइड (3 ग्राम प्रति लीटर) का छिड़काव करें। यदि रोग फैल चुका हो, तो साइमोक्सानिल + मैंकोजेब (2 ग्राम प्रति लीटर) का छिड़काव करें।",
+    "content_mr": "टोमॅटोवर करपा आल्यास पानांवर आणि खोडावर काळपट तपकिरी चट्टे पडतात व फळे सडतात. प्रतिबंधात्मक उपाय म्हणून मँकोझेब 75 WP (2.5 ग्रॅम प्रति लिटर) किंवा कॉपर ऑक्सिक्लोराईड (3 ग्रॅम प्रति लिटर) फवारावे. रोग सुरू झाल्यास सायमॉक्सानिल + मँकोझेब (2 ग्रॅम प्रति लिटर) किंवा मेटालॅक्सिल + मँकोझेब (2 ग्रॅम प्रति लिटर) फवारावे."
+  },
+  {
+    "doc_id": "SUGAR_001",
+    "crop": "sugarcane",
+    "topic": "red_rot_shoot_borer",
+    "title_hi": "गन्ने में लाल सड़न (रेड रॉट) एवं तना छेदक नियंत्रण",
+    "title_mr": "उसावरील तांबडी सड (रेड रॉट) आणि खोडकिडा नियंत्रण",
+    "source": "ICAR-ऊस पैदास संस्था (SBI), कोईम्बतूर व वसंतदादा शुगर इन्स्टिट्यूट (VSI) पुणे",
+    "region": "Maharashtra, UP, Karnataka",
+    "season": "Annual",
+    "verified_status": true,
+    "last_updated": "2026-09-25",
+    "content_en": "Red rot causes internal tissues to redden with transverse white spots and an alcoholic smell. Management: Use certified disease-free setts, dip setts in Carbendazim 50 WP (1 g/liter) for 15 minutes before planting, practice crop rotation, and avoid planting Co 0238 in endemic pockets. For early shoot borer, apply Chlorantraniliprole 0.4% G @ 7.5 kg/acre in soil at planting.",
+    "content_hi": "गन्ने में लाल सड़न रोग होने पर गन्ने के भीतर का गूदा लाल हो जाता है और सफेद आड़ी पट्टियां बनती हैं। उपचार: रोगमुक्त बीजों का चयन करें, बुवाई से पहले कार्बेन्डाजिम (1 ग्राम/लीटर) के घोल में 15 मिनट डुबोएं। खोड छेदक कीट हेतु बुवाई के समय क्लोरेंट्रानिलिप्रोल 0.4% दानेदार (7.5 किग्रा प्रति एकड़) मिट्टी में मिलाएं।",
+    "content_mr": "उसात तांबडी सड झाल्यास ऊस आतून लाल पडून आंबूस वास येतो. उपाय: निरोगी बेणे वापरावे, बेणे प्रक्रिया कार्बेन्डाझिम (1 ग्रॅम प्रति लिटर) च्या द्रावणात 15 मिनिटे करावी. खोडकिडीच्या नियंत्रणासाठी लागवडीवेळी क्लोरँट्रानिलिप्रोल 0.4% जी (7.5 किलो प्रति एकर) खतासोबत जमिनीत द्यावे."
+  },
+  {
+    "doc_id": "CHANA_001",
+    "crop": "gram",
+    "topic": "fusarium_wilt_pod_borer",
+    "title_hi": "चने में उकठा रोग (मुरझान) एवं घाटे अळी प्रबंधन",
+    "title_mr": "हरभऱ्यावरील मर रोग आणि घाटे अळीचे नियंत्रण",
+    "source": "ICAR-भारतीय दलहन अनुसंधान संस्थान (IIPR), कानपुर व KVK",
+    "region": "Central & Peninsular India",
+    "season": "Rabi",
+    "verified_status": true,
+    "last_updated": "2026-10-30",
+    "content_en": "Gram wilt (Fusarium oxysporum) causes drooping of petioles and roots turning dark brown inside. Prevention: Biological seed treatment with Trichoderma viride @ 5 g/kg seed + Carboxin 37.5% + Thiram 37.5% @ 2 g/kg seed. Deep summer ploughing. For pod borer (Helicoverpa), erect 'T' shaped bird perches @ 20/acre, install pheromone traps @ 5/acre, and at pod stage spray Emamectin Benzoate 5 SG @ 0.4 g/liter water.",
+    "content_hi": "चने में उकठा (मर रोग) में पौधा अचानक मुरझाकर सूख जाता है और जड़ें अंदर से काली हो जाती हैं। रोकथाम: ट्राइकोडर्मा विरिडी (5 ग्राम/किग्रा बीज) से बीजोपचार अनिवार्य रूप से करें। घाटे अळी (फली छेदक) हेतु एकरी 20 'T' आकार की खूंटियां लगाएं और प्रकोप होने पर एमामेक्टिन बेंजोएट 5 SG (0.4 ग्राम प्रति लीटर पानी) का छिड़काव करें।",
+    "content_mr": "हरभऱ्यामध्ये मर रोगामुळे पाने पिवळी पडून झाड अचानक वाळते आणि मुळांचा आतील भाग काळा पडतो. उपाय: पेरणीपूर्वी ट्रायकोडर्मा व्हिरिडी (5 ग्रॅम प्रति किलो बियाणे) चोळावे. घाटे अळीच्या नियंत्रणासाठी शेतात एकरी 20 पक्षी थांबे ('T' आकाराचे) लावावेत व प्रादुर्भाव दिसताच इमामेक्टिन बेंझोएट 5 SG (0.4 ग्रॅम प्रति लिटर) फवारावे."
+  }
+]

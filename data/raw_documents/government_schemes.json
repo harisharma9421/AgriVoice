@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "SCHEME_001",
+    "crop": "all",
+    "topic": "pm_kisan_samman_nidhi",
+    "title_hi": "प्रधानमंत्री किसान सम्मान निधि (PM-KISAN) नियम व पात्रता",
+    "title_mr": "पंतप्रधान किसान सन्मान निधी (PM-KISAN) नियम व पात्रता",
+    "source": "कृषि एवं किसान कल्याण मंत्रालय (MoA&FW), भारत सरकार",
+    "region": "All India",
+    "season": "Annual",
+    "verified_status": true,
+    "last_updated": "2026-11-10",
+    "content_en": "PM-KISAN scheme provides financial assistance of Rs 6,000 per year to eligible landholding farmer families, transferred in three equal 4-monthly installments of Rs 2,000 directly into Aadhaar-seeded bank accounts via DBT. Eligibility: All landholder farmers who cultivate agricultural land in their name. Exclusions: Institutional landholders, serving/retired government employees, income tax payees, and constitutional post holders. Mandatory requirements: eKYC on pmkisan.gov.in (OTP or biometric) and land seeding with Aadhaar.",
+    "content_hi": "पीएम-किसान योजना के तहत पात्र किसानों को प्रति वर्ष ₹6,000 की आर्थिक सहायता दी जाती है, जो ₹2,000 की तीन समान किस्तों में सीधे आधार लिंक बैंक खाते में डीबीटी द्वारा भेजी जाती है। पात्रता: अपने नाम खेती योग्य भूमि रखने वाले किसान परिवार। अपात्रता: आयकर दाता, सरकारी कर्मचारी व पेंशनभोगी (₹10,000 से अधिक पेंशन)। अनिवार्य शर्त: pmkisan.gov.in पर बायोमेट्रिक या ओटीपी आधारित eKYC और बैंक खाते का आधार से जुड़ा होना।",
+    "content_mr": "पीएम-किसान योजनेअंतर्गत पात्र शेतकरी कुटुंबांना दरवर्षी ₹6,000 ची आर्थिक मदत दिली जाते. ही रक्कम ₹2,000 च्या तीन समान हप्त्यांमध्ये थेट आधार लिंक बँक खात्यात जमा होते. पात्रता: ज्या शेतकऱ्यांच्या नावावर शेतजमीन आहे अशी सर्व कुटुंबे. अपात्रता: प्राप्तीकर भरणारे (Income Tax Payers), सरकारी कर्मचारी व निवृत्तीवेतनधारक. आवश्यक अटी: pmkisan.gov.in पोर्टलवर eKYC पूर्ण असणे आणि बँक खाते आधारशी जोडलेले असणे बंधनकारक आहे."
+  },
+  {
+    "doc_id": "SCHEME_002",
+    "crop": "all",
+    "topic": "pmfby_crop_insurance",
+    "title_hi": "प्रधानमंत्री फसल बीमा योजना (PMFBY) - प्रीमियम एवं दावा प्रक्रिया",
+    "title_mr": "पंतप्रधान पीक विमा योजना (PMFBY) - हप्ता व नुकसान भरपाई नियम",
+    "source": "कृषि एवं किसान कल्याण मंत्रालय (MoA&FW), भारत सरकार",
+    "region": "All India",
+    "season": "Kharif & Rabi",
+    "verified_status": true,
+    "last_updated": "2026-11-01",
+    "content_en": "PMFBY provides comprehensive crop insurance against natural non-preventable risks. Premium paid by farmer: Kharif crops only 2.0%, Rabi crops only 1.5%, Annual commercial/horticultural crops 5.0% (balance paid by Govt). In case of localized calamities (hailstorm, landslide, inundation, cloud burst), farmer MUST notify within 72 hours via Crop Insurance App, toll-free helpline 14447, or insurance company. Crop cutting experiments (CCE) determine threshold yield loss for area-wide claims.",
+    "content_hi": "प्रधानमंत्री फसल बीमा योजना (PMFBY) प्राकृतिक आपदाओं से फसल नुकसान पर सुरक्षा देती है। किसान द्वारा देय प्रीमियम दरें: खरीफ फसलों पर 2%, रबी फसलों पर 1.5% और वाणिज्यिक/बागवानी फसलों पर 5%। स्थानीय आपदा (ओलावृष्टि, जलभराव, बादल फटना) होने पर नुकसान की सूचना 72 घंटे के भीतर क्रॉप इंश्योरेंस ऐप या टोल-फ्री नंबर 14447 पर देना अनिवार्य है।",
+    "content_mr": "पंतप्रधान पीक विमा योजना (PMFBY) नैसर्गिक आपत्तीमुळे होणाऱ्या पीक नुकसानीपासून संरक्षण देते. शेतकऱ्याचा विमा हप्ता: खरीप पिकांसाठी केवळ 2%, रब्बी पिकांसाठी 1.5% आणि नगदी/फळबाग पिकांसाठी 5%. गारपीट, अतिवृष्टी किंवा पूर आल्यास स्थानिक नुकसानीची माहिती 72 तासांच्या आत 'क्रॉप इन्शुरन्स' ॲपवर किंवा 14447 या टोल-फ्री क्रमांकावर नोंदवणे बंधनकारक आहे."
+  },
+  {
+    "doc_id": "SCHEME_003",
+    "crop": "all",
+    "topic": "soil_health_card_scheme",
+    "title_hi": "मृदा स्वास्थ्य कार्ड योजना (सॉइल हेल्थ कार्ड)",
+    "title_mr": "मृदा आरोग्य पत्रिका योजना (माती परीक्षण)",
+    "source": "कृषि एवं किसान कल्याण मंत्रालय",
+    "region": "All India",
+    "season": "Annual",
+    "verified_status": true,
+    "last_updated": "2026-10-01",
+    "content_en": "Soil Health Card assesses fertility across 12 vital parameters: 3 macro-nutrients (N, P, K), secondary nutrient (S), 5 micro-nutrients (Zn, Fe, Cu, Mn, Bo), and 3 physical parameters (pH, EC, Organic Carbon). Issued every 2 years. Helps farmers reduce unnecessary fertilizer expenditure by applying exact doses recommended by agriculture officers.",
+    "content_hi": "मृदा स्वास्थ्य कार्ड में खेत की मिट्टी के 12 पोषक तत्वों की जांच रिपोर्ट मिलती है: नाइट्रोजन, फास्फोरस, पोटाश, सल्फर, जिंक, लोहा, तांबा, मैंगनीज, बोरोन, पीएच, ईसी और जैविक कार्बन। यह कार्ड हर 2 वर्ष में नवीनीकृत होता है, जिससे संतुलित उर्वरक उपयोग से लागत में कमी आती है।",
+    "content_mr": "मृदा आरोग्य पत्रिकेत (सॉइल हेल्थ कार्ड) शेताच्या मातीतील 12 घटकांची तपासणी केली जाते: नत्र, स्फुरद, पालाश, गंधक, जस्त, लोह, तांबे, मँगनीज, बोरॉन, सामू (pH), क्षारता (EC) आणि सेंद्रिय कर्ब. हे कार्ड दर 2 वर्षांनी मिळते. यामुळे खतांचा अनावश्यक खर्च वाचून संतुलित खत व्यवस्थापन करता येते."
+  }
+]

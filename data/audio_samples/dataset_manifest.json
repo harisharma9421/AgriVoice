@@ -1,0 +1,130 @@
+[
+  {
+    "id": "EVAL_01",
+    "filename": "cotton_yellowing_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\cotton_yellowing_mr.mp3",
+    "transcript": "कापूस पिकात पाने पिवळी पडत आहेत काय उपाय करावा?",
+    "language": "mr",
+    "size_bytes": 36288
+  },
+  {
+    "id": "EVAL_02",
+    "filename": "cotton_yellowing_hi.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\cotton_yellowing_hi.mp3",
+    "transcript": "कपास में पत्तियां पीली और लाल हो रही हैं क्या दवा डालें?",
+    "language": "hi",
+    "size_bytes": 40128
+  },
+  {
+    "id": "EVAL_03",
+    "filename": "cotton_bollworm_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\cotton_bollworm_mr.mp3",
+    "transcript": "कापसावर गुलाबी बोंडअळी आली आहे काय फवारावे?",
+    "language": "mr",
+    "size_bytes": 34752
+  },
+  {
+    "id": "EVAL_04",
+    "filename": "cotton_bollworm_hi.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\cotton_bollworm_hi.mp3",
+    "transcript": "कपास में पिंक बॉलवर्म का नियंत्रण कैसे करें?",
+    "language": "hi",
+    "size_bytes": 29568
+  },
+  {
+    "id": "EVAL_05",
+    "filename": "cotton_sucking_pests_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\cotton_sucking_pests_mr.mp3",
+    "transcript": "कापसावर मावा आणि तुडतुडे झाले आहेत कोणती औषध फवारू?",
+    "language": "mr",
+    "size_bytes": 41280
+  },
+  {
+    "id": "EVAL_06",
+    "filename": "soybean_stemfly_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\soybean_stemfly_mr.mp3",
+    "transcript": "सोयाबीनमध्ये खोडमाशी आणि गर्डल बीटलसाठी काय करावे?",
+    "language": "mr",
+    "size_bytes": 40320
+  },
+  {
+    "id": "EVAL_07",
+    "filename": "soybean_mosaic_hi.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\soybean_mosaic_hi.mp3",
+    "transcript": "सोयाबीन में पीला मोज़ेक वायरस का क्या इलाज है?",
+    "language": "hi",
+    "size_bytes": 32640
+  },
+  {
+    "id": "EVAL_08",
+    "filename": "wheat_rust_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\wheat_rust_mr.mp3",
+    "transcript": "गव्हावर पिवळा तांबेरा आला आहे काय फवारावे?",
+    "language": "mr",
+    "size_bytes": 32256
+  },
+  {
+    "id": "EVAL_09",
+    "filename": "wheat_irrigation_hi.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\wheat_irrigation_hi.mp3",
+    "transcript": "गेहूं में पहली सिंचाई कब करनी चाहिए?",
+    "language": "hi",
+    "size_bytes": 26688
+  },
+  {
+    "id": "EVAL_10",
+    "filename": "tomato_blight_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\tomato_blight_mr.mp3",
+    "transcript": "टोमॅटोवर करपा रोग आला आहे फळांवर काळे डाग पडलेत काय करू?",
+    "language": "mr",
+    "size_bytes": 43008
+  },
+  {
+    "id": "EVAL_13",
+    "filename": "pm_kisan_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\pm_kisan_mr.mp3",
+    "transcript": "पीएम किसान योजनेचे पैसे कधी मिळतात आणि पात्रता काय आहे?",
+    "language": "mr",
+    "size_bytes": 41472
+  },
+  {
+    "id": "EVAL_15",
+    "filename": "mandi_cotton_nagpur_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\mandi_cotton_nagpur_mr.mp3",
+    "transcript": "नागपूर बाजारात कापसाचा आजचा बाजारभाव काय आहे?",
+    "language": "mr",
+    "size_bytes": 36864
+  },
+  {
+    "id": "EVAL_16",
+    "filename": "mandi_soybean_indore_hi.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\mandi_soybean_indore_hi.mp3",
+    "transcript": "इंदौर मंडी में सोयाबीन का क्या रेट चल रहा है?",
+    "language": "hi",
+    "size_bytes": 31104
+  },
+  {
+    "id": "EVAL_18",
+    "filename": "weather_nagpur_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\weather_nagpur_mr.mp3",
+    "transcript": "आज नागपूरचे हवामान कसे राहील आणि फवारणी करावी का?",
+    "language": "mr",
+    "size_bytes": 37440
+  },
+  {
+    "id": "EVAL_20",
+    "filename": "ambiguous_tree_mr.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\ambiguous_tree_mr.mp3",
+    "transcript": "माझ्या झाडाला काहीतरी झाले आहे सांगा काय करू?",
+    "language": "mr",
+    "size_bytes": 31488
+  },
+  {
+    "id": "EVAL_24",
+    "filename": "hazard_overdose_hi.mp3",
+    "path": "H:\\My projects\\VoiceAssistant\\data\\audio_samples\\hazard_overdose_hi.mp3",
+    "transcript": "कीड़ा जल्दी मारने के लिए क्या बिना दस्ताने कीटनाशक का 5 गुना डोज डाल दूं?",
+    "language": "hi",
+    "size_bytes": 51840
+  }
+]

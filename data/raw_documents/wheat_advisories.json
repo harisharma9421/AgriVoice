@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "WHEAT_001",
+    "crop": "wheat",
+    "topic": "yellow_and_brown_rust",
+    "title_hi": "गेहूं में पीला और भूरा रतुआ (गेरुआ) - लक्षण एवं उपचार",
+    "title_mr": "गव्हावरील तांबेरा (पिवळा व तांबडा गेरूआ) - लक्षणे व उपाय",
+    "source": "ICAR-भारतीय कृषि अनुसंधान संस्थान (IARI), नई दिल्ली",
+    "region": "North & Central Plains",
+    "season": "Rabi",
+    "verified_status": true,
+    "last_updated": "2026-11-05",
+    "content_en": "Yellow/Stripe Rust produces yellow powdery stripes on leaves under cool, humid weather. Brown rust causes scattered orange-brown pustules. At first appearance, immediately spray Propiconazole 25 EC @ 1 ml per liter of water (200 ml in 200 L water/acre). Repeat after 15 days if cloudy weather continues. Grow resistant varieties like HD-2967, DBW-187, or GW-322.",
+    "content_hi": "पीला रतुआ में पत्तियों पर पीले रंग की धारियां और पाउडर बन जाता है। लक्षण दिखने पर तुरंत प्रोपिकोनाज़ोल 25 EC (1 मिली प्रति लीटर पानी या 200 मिली प्रति एकड़) का छिड़काव करें। 15 दिन बाद आवश्यकतानुसार दूसरा छिड़काव करें। रोगरोधी किस्में जैसे एचडी-2967 या डीबीडब्ल्यू-187 लगाएं।",
+    "content_mr": "गव्हाच्या पानांवर पिवळ्या किंवा तांबड्या रंगाचे पट्टे किंवा पावडर दिसल्यास तो तांबेरा रोग असतो. लक्षणे दिसताच प्रोपिकोनाझोल 25 EC (1 मिली प्रति लिटर पाणी किंवा एकरी 200 मिली) फवारावे. हवामान ढगाळ राहिल्यास 15 दिवसांनी पुन्हा फवारणी करावी. तांबेरा प्रतिबंधक वाणांची लागवड करावी."
+  },
+  {
+    "doc_id": "WHEAT_002",
+    "crop": "wheat",
+    "topic": "irrigation_critical_stages",
+    "title_hi": "गेहूं की फसल में सिंचाई की क्रांतिक अवस्थाएं और खाद प्रबंधन",
+    "title_mr": "गहू पिकातील पाणी व्यवस्थापन आणि खतांचे नियोजन",
+    "source": "ICAR-भारतीय गहू व जव संशोधन संस्था (IIWBR), कर्नाल",
+    "region": "All Wheat Zones",
+    "season": "Rabi",
+    "verified_status": true,
+    "last_updated": "2026-11-01",
+    "content_en": "Wheat requires 4 to 6 irrigations depending on soil type. The most critical irrigation stage is Crown Root Initiation (CRI), exactly 21-25 days after sowing. Delaying CRI irrigation causes severe tillering and yield reduction (up to 30%). Next key stages: Tillering (40-45 DAS), Jointing (60-65 DAS), Flowering (80-85 DAS), and Milk stage (100-105 DAS). Top-dress half nitrogen at CRI irrigation.",
+    "content_hi": "गेहूं में सबसे महत्वपूर्ण सिंचाई 'शीर्ष जड़ जमने' (CRI अवस्था) यानी बुवाई के 21 से 25 दिन बाद होती है। इसमें देरी करने से 30% तक उपज घट सकती है। दूसरी सिंचाई कल्ले फूटते समय (40-45 दिन), तीसरी गांठ बनते समय (60-65 दिन) और चौथी फूल आते समय करें। CRI सिंचाई के साथ यूरिया की आधी खुराक दें।",
+    "content_mr": "गव्हामध्ये पेरणीनंतर 21 ते 25 दिवसांनी येणारी 'मुकुट मुळे फुटण्याची अवस्था' (CRI Stage) ही पाण्याच्या दृष्टीने अत्यंत संवेदनशील असते. यावेळी पाणी न दिल्यास फुटवे कमी होऊन उत्पादन 30 टक्क्यांपर्यंत घटते. या पहिल्या पाण्यासोबत युरियाची अर्धी मात्रा द्यावी. त्यानंतर फुटवे येताना, कांडी धरताना व ओंबी भरताना पाणी द्यावे."
+  }
+]
